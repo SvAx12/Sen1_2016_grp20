@@ -1,2 +1,7 @@
 Hallo, dit is versie 1 van max4.txt
+<<<<<<< HEAD
 Deze is nu veranderd, groetjes jelmer.
+=======
+
+dikke edit g. Jelmer
+>>>>>>> f2b7c9147b5cb29ae4d82f46bf620f3e3d04402d
